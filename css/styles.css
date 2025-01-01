@@ -16,6 +16,11 @@
   margin-bottom: 188px;
   margin-top: 48px;
   cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
 .div1 {
   background-color: #2e2f42;
@@ -73,4 +78,14 @@
   color: #ffffff;
 
   margin-bottom: 0;
+}
+.h3 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+.section1 {
+  background-color: #ffffff;
 }
